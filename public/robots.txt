@@ -1,6 +1,5 @@
 User-agent: *
 Allow: /
-Sitemap: https://yourwebsite.com/sitemap.xml
+Sitemap: https://compressjpeg.live/sitemap.xml
 
 # Allow all search engines to crawl all content
-# Replace yourwebsite.com with your actual domain name when deploying
